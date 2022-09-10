@@ -1,0 +1,10 @@
+1.install react app
+2.install react-router-dom
+3.install firebase
+Description 
+when you started your application the first page is home page.
+after that when you click on signup you will reach on signup and when you will click on login you will reach on login page.
+Firstly you need to signup.
+after fill out all mandetory fields when you click on signup button you will redirect on home page and you will get the welcome
+with your username .
+If you are signed in successfully you can log in with your registerd mail and passwor.
